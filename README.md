@@ -1,2 +1,2 @@
 # BookClub
-[link](http://www.easybib.com/v2/images/eb-star-books.svg)
+![](http://chuantu.biz/t6/344/1531877279x-1566688556.png)
