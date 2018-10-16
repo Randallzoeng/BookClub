@@ -1,1 +1,1 @@
-Exercise on Applied Predictive Modeling (Kuhn and Johnson (2013))
+Exercise on the wonderful book [Applied Predictive Modeling](https://www.amazon.cn/dp/1461468485/ref=sr_1_3?ie=UTF8&qid=1539675759&sr=8-3&keywords=Applied+Predictive+Modeling) by Kuhn and Johnson (2013)
